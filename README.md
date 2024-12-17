@@ -25,7 +25,7 @@ To set up the project locally, follow these steps:
    Clone the repository to your local machine:  
 
    ```bash
-   git clone https://github.com/Ajin28/bkc_frontend.git
+   git clone https://github.com/Ajin28/bcg_frontend.git
    ```
 
 
@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
    Navigate to the project directory:
 
    ```bash
-   cd bkc_frontend
+   cd bcg_frontend
 
    ```
    
