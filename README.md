@@ -44,7 +44,7 @@ To set up the project locally, follow these steps:
    Start the developement server:  
 
    ```bash
-  npm run dev
+   npm run dev
    ```
 
 
