@@ -25,10 +25,19 @@ To set up the project locally, follow these steps:
    Clone the repository to your local machine:  
 
    ```bash
-   git clone https://github.com/your-username/product-management
+   git clone https://github.com/Ajin28/bkc_frontend.git
    ```
 
 
+
+2. **Open Project Folder**
+   Navigate to the project directory:
+
+   ```bash
+   cd bkc_frontend
+
+   ```
+   
 2. **Installing Dependencies**  
 
    Install all dependencies:  
@@ -39,7 +48,7 @@ To set up the project locally, follow these steps:
 
 
 
-1. **Starting Server**  
+4. **Starting Server**  
 
    Start the developement server:  
 
