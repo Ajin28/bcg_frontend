@@ -31,7 +31,7 @@ To set up the project locally, follow these steps:
 
 2. **Installing Dependencies**  
 
-   Clone the repository to your local machine:  
+   Install all dependencies:  
 
    ```bash
    npm i
@@ -41,7 +41,7 @@ To set up the project locally, follow these steps:
 
 1. **Starting Server**  
 
-   Clone the repository to your local machine:  
+   Start the developement server:  
 
    ```bash
   npm run dev
